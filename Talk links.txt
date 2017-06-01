@@ -15,3 +15,7 @@ Backbone JavaScript client handbook: https://developer.wordpress.org/rest-api/us
 Select refresh for Widgets - https://make.wordpress.org/core/2016/03/22/implementing-selective-refresh-support-for-widgets/
 JavaScript Widgets: https://github.com/xwp/wp-js-widgets
 JavaScript Hooks: https://core.trac.wordpress.org/ticket/21170 & https://github.com/adamsilverstein/WP-JS-Hooks
+https://make.wordpress.org/summit/2014/10/21/improving-the-javascript-proficiency-of-wordpress-developers/
+Add JavaScript date helpers: https://core.trac.wordpress.org/ticket/39222
+JavaScript Core chats: https://make.wordpress.org/core/tag/javascript/
+Trac notifications - follow the JavaScript focus! https://make.wordpress.org/core/notifications/
