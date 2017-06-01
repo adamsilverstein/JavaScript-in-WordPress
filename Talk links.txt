@@ -19,3 +19,5 @@ https://make.wordpress.org/summit/2014/10/21/improving-the-javascript-proficienc
 Add JavaScript date helpers: https://core.trac.wordpress.org/ticket/39222
 JavaScript Core chats: https://make.wordpress.org/core/tag/javascript/
 Trac notifications - follow the JavaScript focus! https://make.wordpress.org/core/notifications/
+Media Widgets: https://make.wordpress.org/core/2017/05/26/media-widgets-for-images-video-and-audio/
+Core media widgets: https://github.com/xwp/wp-core-media-widgets
