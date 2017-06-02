@@ -4,6 +4,9 @@ Talk links:
 * WordPress JavaScript parser source: https://github.com/adamsilverstein
 * Inventory of Ajax Actions in wp-admin: https://docs.google.com/spreadsheets/d/1gCK33SM_c2eGQr3oRe7ybkvCW6xYNz190sZGR4J8f9Q/edit#gid=0
 * WordPress project details @ OpenHub: https://www.openhub.net/p/wordpress/
+* Dropping support for ID < 11: https://make.wordpress.org/core/2017/04/23/target-browser-coverage/
+* Editor - https://developer.wordpress.org/reference/functions/wp_editor/
+* Editor changes in 4.8: https://make.wordpress.org/core/2017/05/20/editor-api-changes-in-4-8/
 * Media - Eric's guide: https://github.com/ericandrewlewis/wp-media-javascript-guide
 * Media Taxonomy Dropdown Filter plugin: https://github.com/felixarntz/attachment-taxonomies.git
 * Customizer API: https://developer.wordpress.org/themes/customize-api/
@@ -19,3 +22,4 @@ Talk links:
 * Trac notifications - follow the JavaScript focus! https://make.wordpress.org/core/notifications/
 * Media Widgets: https://make.wordpress.org/core/2017/05/26/media-widgets-for-images-video-and-audio/
 * Core media widgets: https://github.com/xwp/wp-core-media-widgets
+* Gutenberg - https://github.com/WordPress/gutenberg
