@@ -32,3 +32,12 @@ Use the REST API:
 * Press This - https://core.trac.wordpress.org/ticket/38343
 * QuickDraft - https://core.trac.wordpress.org/ticket/38342
 * Tag search - https://core.trac.wordpress.org/ticket/38922
+
+NPM Security Auditing- https://snyk.io/
+
+React Licensing:
+* https://issues.apache.org/jira/browse/LEGAL-303
+* https://ma.tt/2017/09/on-react-and-wordpress/
+* https://make.wordpress.org/core/2017/09/27/javascript-chat-summary-for-sept-26th/
+* https://github.com/WordPress/gutenberg/pull/2463 – Framework-agnostic block interoperability (Vanilla, Vue)
+* https://github.com/WordPress/gutenberg/pull/2791
